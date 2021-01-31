@@ -1,2 +1,4 @@
 # Medical_Appointments_ML
-Study of Solving Problem Using Supervised Machine Learning Technique.
+Understanding the process of solving classification problem using Machine Learning.
+
+From Features Exploration-> Data Wrangling -> Performing Exploratory Data Analysis -> Applying ML Algorithms -> Evaluation Metric.
